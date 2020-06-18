@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Test Kotlin</string>
+    <string name="number_name">Number Guess</string>
+    <string name="title.numberguess">Number Guess</string>
+    <string name="button.start">Start</string>
+    <string name="label.guess">Guess a Number</string>
+    <string name="button.guess">Guess</string>
+    <string name="edit.number">Number</string>
+    <string name="status.start.info">Press START to start the game</string>
+    <string name="label.log">Log</string>
+    <string name="hint.guess">Guess a number from %1$d to %2$d</string>
+    <string name="status.too.low">Too low</string>
+    <string name="status.too.high">Too high</string>
+    <string name="status.correct">Good guess in %1$d tries</string>
+
 </resources>
